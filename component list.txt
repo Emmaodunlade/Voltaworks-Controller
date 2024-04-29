@@ -1,0 +1,8 @@
+MCU- RP2040
+usb C - TPS65988 for power delivery /usb monitoring 
+usb A - 
+push buttons -
+display connector - FH34SRJ-24S-0.5SH(99)
+flash memory for the mcu : W25Q128JVS
+
+
