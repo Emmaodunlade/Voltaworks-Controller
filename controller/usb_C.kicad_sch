@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "bb86d09a-fafd-4028-a8e7-b98c3a61b2d9")
 	(paper "A4")
+	(title_block
+		(company "Voltaworks")
+	)
 	(lib_symbols
 		(symbol "2024-04-28_21-41-18:TPS65988DHRSHR"
 			(pin_names
@@ -2949,6 +2952,14 @@
 		(uuid "023b7379-0d38-4c7a-8860-77d153248a51")
 	)
 	(no_connect
+		(at 57.15 137.16)
+		(uuid "03c8f3e9-c6a0-4327-b037-62d3e12d022c")
+	)
+	(no_connect
+		(at 57.15 58.42)
+		(uuid "0725210f-0ee0-4b13-85ff-eaaa6f9642d4")
+	)
+	(no_connect
 		(at 115.57 60.96)
 		(uuid "07ebb950-f3e7-4a08-8b13-582f0368c20f")
 	)
@@ -2957,8 +2968,16 @@
 		(uuid "126d2373-881a-40a2-b909-ff5aad847b56")
 	)
 	(no_connect
+		(at 57.15 134.62)
+		(uuid "135e52a2-2888-40c7-b6c9-4a26d17bc818")
+	)
+	(no_connect
 		(at 115.57 86.36)
 		(uuid "16734bd9-19b9-4b86-bddc-d857be425cf1")
+	)
+	(no_connect
+		(at 57.15 127)
+		(uuid "1be344f8-9c29-4b3e-b33b-a7ef35c2e66b")
 	)
 	(no_connect
 		(at 115.57 78.74)
@@ -2969,8 +2988,16 @@
 		(uuid "2a25741d-871a-4423-9bb8-82de7a5f1b5b")
 	)
 	(no_connect
+		(at 57.15 142.24)
+		(uuid "2f527aa1-4f6b-468d-a436-df0c8e3119b9")
+	)
+	(no_connect
 		(at 115.57 53.34)
 		(uuid "3b727dae-5b04-4670-ae74-540989dfbdc8")
+	)
+	(no_connect
+		(at 57.15 66.04)
+		(uuid "45d7c5a1-c0f7-406f-b2ac-e3d8f7863b20")
 	)
 	(no_connect
 		(at 115.57 71.12)
@@ -2997,6 +3024,10 @@
 		(uuid "781ebe1a-7225-4a17-944b-c719e44cfca1")
 	)
 	(no_connect
+		(at 57.15 81.28)
+		(uuid "78e700bb-740e-4aa8-a274-a063bff80042")
+	)
+	(no_connect
 		(at 191.77 81.28)
 		(uuid "7df8b87a-40bf-4f9e-a12b-2778eef1937d")
 	)
@@ -3011,6 +3042,10 @@
 	(no_connect
 		(at 115.57 63.5)
 		(uuid "86b235bd-2d00-4607-a579-0eb3b099720a")
+	)
+	(no_connect
+		(at 57.15 144.78)
+		(uuid "9000939d-43d9-46dc-8de4-c28ddf9c0850")
 	)
 	(no_connect
 		(at 115.57 48.26)
@@ -3033,6 +3068,38 @@
 		(uuid "a1f6f346-e883-4930-accd-1dcfcb8afc2e")
 	)
 	(no_connect
+		(at 57.15 91.44)
+		(uuid "a5e839d6-80a7-48a1-9c28-15b211657f62")
+	)
+	(no_connect
+		(at 57.15 88.9)
+		(uuid "a9478c87-a743-4299-a7d6-43c240570b40")
+	)
+	(no_connect
+		(at 57.15 152.4)
+		(uuid "b158e1d2-3311-4178-8248-9cec0becd404")
+	)
+	(no_connect
+		(at 57.15 68.58)
+		(uuid "c2997ab6-51f0-4c73-a49f-bb9d0386f143")
+	)
+	(no_connect
+		(at 57.15 149.86)
+		(uuid "c737b1ff-443d-4e79-af0d-880e16e57a80")
+	)
+	(no_connect
+		(at 167.64 127)
+		(uuid "d4acc1ac-6df9-48cd-88f2-3cde184cbacc")
+	)
+	(no_connect
+		(at 57.15 83.82)
+		(uuid "d666e0e4-fd93-4e5c-95ff-e19a7ec08bfe")
+	)
+	(no_connect
+		(at 57.15 119.38)
+		(uuid "da658d26-4a17-4013-a08b-877fd57383fa")
+	)
+	(no_connect
 		(at 115.57 50.8)
 		(uuid "e8efa1d8-8bc6-4d36-8ba3-f3e0929afd9a")
 	)
@@ -3043,6 +3110,14 @@
 	(no_connect
 		(at 115.57 40.64)
 		(uuid "eb08fee6-242e-47db-bc24-4896e00a98d4")
+	)
+	(no_connect
+		(at 57.15 129.54)
+		(uuid "f18edcd0-893b-4827-84fa-40eb58dc97c8")
+	)
+	(no_connect
+		(at 167.64 121.92)
+		(uuid "f8dfdd90-a350-4b8b-bbf3-4d2989f89fcb")
 	)
 	(no_connect
 		(at 115.57 83.82)
@@ -4012,7 +4087,7 @@
 		(uuid "cefe84ce-4f7a-4431-94e7-c4eb56f9eef3")
 	)
 	(label "c1_cc1"
-		(at 60.96 37.592 0)
+		(at 60.96 38.1 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4055,6 +4130,54 @@
 			(justify left)
 		)
 		(uuid "035c2f71-ea7d-41c3-bb6b-029fc3b8771a")
+	)
+	(hierarchical_label "vbus2"
+		(shape input)
+		(at 111.76 121.92 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "29bea9d0-5eef-4646-bb87-4f4a2f8019fe")
+	)
+	(hierarchical_label "usbd-"
+		(shape input)
+		(at 66.04 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "56cdd423-1624-48a2-8602-88300463b15e")
+	)
+	(hierarchical_label "vbus1"
+		(shape input)
+		(at 111.76 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b30556c2-a4f9-4557-87be-f56f6182dd15")
+	)
+	(hierarchical_label "usbd+"
+		(shape input)
+		(at 66.04 53.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b7ace0de-fb5e-48cd-aa09-30634defaf96")
 	)
 	(hierarchical_label "scl"
 		(shape input)

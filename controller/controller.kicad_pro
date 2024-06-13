@@ -417,16 +417,16 @@
       "mcu"
     ],
     [
-      "4824cc17-4fe1-4945-ad51-0aeea24cae8e",
-      "voltage_monitoring"
-    ],
-    [
       "fb4efd18-28c9-499c-9f48-5d7447461da3",
       "Usb_C PD"
     ],
     [
       "baba7914-ad97-4a88-860e-067bb0c199b1",
-      "analog_input"
+      "Connector"
+    ],
+    [
+      "6e49910c-2fc3-4334-8583-d467ed00e9f5",
+      "display"
     ]
   ],
   "text_variables": {}

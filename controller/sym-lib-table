@@ -1,6 +1,10 @@
 (sym_lib_table
+  (version 7)
   (lib (name "4xxx")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/4xxx.kicad_sym")(options "")(descr "4xxx series symbols"))
   (lib (name "RP2040")(type "KiCad")(uri "C:/Users/VentShot EE/Downloads/RP2040/RP2040.kicad_sym")(options "")(descr ""))
   (lib (name "AP2112K-3.3TRG1")(type "KiCad")(uri "C:/Users/VentShot EE/Downloads/AP2112K_3_3TRG1/AP2112K-3.3TRG1.kicad_sym")(options "")(descr ""))
   (lib (name "2024-04-28_21-41-18")(type "KiCad")(uri "C:/Users/VentShot EE/Downloads/ul_TPS65988DHRSHR/KiCADv6/2024-04-28_21-41-18.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-05-08_02-22-55")(type "KiCad")(uri "C:/Users/VentShot EE/Downloads/702461201/KiCADv6/2024-05-08_02-22-55.kicad_sym")(options "")(descr ""))
+  (lib (name "FH34SRJ-24S-0.5SH_99_")(type "KiCad")(uri "C:/Users/VentShot EE/Downloads/FH34SRJ_24S_0_5SH_99_/FH34SRJ-24S-0.5SH_99_.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-05-08_23-41-22")(type "KiCad")(uri "C:/Users/VentShot EE/Downloads/68602_116HLF/KiCADv6/2024-05-08_23-41-22.kicad_sym")(options "")(descr ""))
 )

@@ -1,5 +1,9 @@
 (fp_lib_table
+  (version 7)
   (lib (name "AP2112K_3_3TRG1")(type "KiCad")(uri "C:/Users/VentShot EE/Downloads/AP2112K_3_3TRG1")(options "")(descr ""))
   (lib (name "RP2040")(type "KiCad")(uri "C:/Users/VentShot EE/Downloads/RP2040")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "C:/Users/VentShot EE/Downloads/ul_TPS65988DHRSHR/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "FH34SRJ_24S_0_5SH_99_")(type "KiCad")(uri "C:/Users/VentShot EE/Downloads/FH34SRJ_24S_0_5SH_99_")(options "")(descr ""))
+  (lib (name "footprintsn")(type "KiCad")(uri "C:/Users/VentShot EE/Downloads/702461201/KiCADv6/footprintsn.pretty")(options "")(descr ""))
+  (lib (name "footprintsnt")(type "KiCad")(uri "C:/Users/VentShot EE/Downloads/68602_116HLF/KiCADv6/footprintsnt.pretty")(options "")(descr ""))
 )
